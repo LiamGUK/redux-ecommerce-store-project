@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f78f4e40-ec36-455b-b6b0-c2aae570f435/deploy-status?branch=main)](https://app.netlify.com/sites/lg-ecomm-redux-store-project/deploys)
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 <!--
